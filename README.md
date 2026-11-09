@@ -7,7 +7,7 @@
 
 Building practical applications, exploring emerging technologies, and continuously improving my software engineering skills.
 
-[**GitHub**](https://github.com/danishio01) &nbsp; · &nbsp; [**LinkedIn**](https://www.linkedin.com/in/mddanishh/) &nbsp; · &nbsp; [**Email**](mailto:m.daanish.aj@gmail.com)
+ &nbsp; [**LinkedIn**](https://www.linkedin.com/in/mddanishh/) &nbsp; · &nbsp; [**Email**](mailto:m.daanish.aj@gmail.com)
 
 </div>
 
