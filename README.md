@@ -38,7 +38,7 @@ My interests include full-stack development, artificial intelligence, and buildi
 
 <div align="center">
 
-####### ` Turning ideas into reality, one line at a time.`
+### // Turning ideas into reality, one line at a time.
 
 </div>
 
