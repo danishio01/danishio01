@@ -4,7 +4,7 @@
 
 Computer Science and Engineering student passionate about software development, problem-solving, and emerging technologies. Focused on developing practical software solutions, strengthening computer science fundamentals, and exploring modern development technologies.
 
-- [**GitHub**](https://github.com/danishio01) | [**LinkedIn**](https://www.linkedin.com/in/mddanishh/)
+[**GitHub**](https://github.com/danishio01)  [**LinkedIn**](https://www.linkedin.com/in/mddanishh/)
 ---
 
 ## About Me
