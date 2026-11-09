@@ -15,9 +15,15 @@ Building practical applications, exploring emerging technologies, and continuous
 
 ## About Me
 
-I'm a Computer Science and Engineering student at **Gopalan College of Engineering and Management, Bengaluru**, passionate about software development, problem-solving, and emerging technologies.
+I'm a Computer Science and Engineering student at Gopalan College of Engineering and Management, Bengaluru, driven by a passion for technology, innovation, and software development.
 
-My interests include full-stack development, artificial intelligence, and building practical applications. I continuously work on strengthening my programming skills, exploring new technologies, and developing solutions to real-world problems.
+I enjoy transforming ideas into practical solutions, exploring emerging technologies, and solving problems through creative thinking and logical reasoning.
+
+Currently focused on Full-Stack Development, Artificial Intelligence, and Software Engineering, while continuously strengthening my programming fundamentals and technical expertise.
+
+I believe in learning beyond the classroom, building through hands-on experience, and embracing challenges as opportunities to grow. I enjoy collaborating with like-minded individuals, experimenting with new ideas, and developing solutions that create meaningful impact.
+
+Always curious, constantly evolving, and committed to becoming a better engineer every day.
 
 ## Technical Skills
 
