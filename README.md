@@ -1,10 +1,10 @@
-                           # Muhammad Danish J
+  # Muhammad Danish J
 
 ### Aspiring Software Engineer | Full-Stack Development | MERN Stack | Java | AI-Powered Solutions
 
 Computer Science and Engineering student passionate about software development, problem-solving, and emerging technologies. Focused on developing practical software solutions, strengthening computer science fundamentals, and exploring modern development technologies.
 
-- **GitHub:** [danishio01](https://github.com/danishio01)
+- [**GitHub**](https://github.com/danishio01)
 ---
 
 ## About Me
