@@ -23,8 +23,8 @@ I believe in continuous learning, hands-on experience, and building technology t
 - SQL
 
 **Frontend Development**
-- HTML5
-- CSS3
+- HTML
+- CSS
 - React.js
 
 **Backend Development**
@@ -73,14 +73,14 @@ Gopalan College of Engineering and Management, Bengaluru
 
 ## Achievements & Activities
 
-- Participated in hackathons and technical events.
-- Recognized for mini-project development.
-- Actively exploring collaborative software development and practical problem-solving.
+- Won hackathons, demonstrating problem-solving abilities, teamwork, and the ability to develop innovative solutions.
+- Received recognition for outstanding performance in mini-project development.
+- Actively participate in technical events and collaborative projects, continuously strengthening my software development and practical problem-solving skills.
 
 ## Connect With Me
 
 - **GitHub:** [github.com/danishio01](https://github.com/danishio01)
-- **LinkedIn:** [Add your LinkedIn profile URL]
+- **LinkedIn:** [[Add your LinkedIn profile URL]](https://www.linkedin.com/in/mddanishh/)
 - **Email:** m.daanish.aj@gmail.com
 
 ---
