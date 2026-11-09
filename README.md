@@ -32,9 +32,9 @@ My interests include full-stack development, artificial intelligence, and buildi
 - Full-Stack Development
 - Artificial Intelligence & Machine Learning
 - API Development & Integration
-- Cybersecurity
 - Real-Time Application Development
 - Generative AI & AI Agents
+- Cybersecurity
 
 <div align="center">
 
