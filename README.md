@@ -31,14 +31,10 @@ My interests include full-stack development, artificial intelligence, and buildi
 
 - Full-Stack Development
 - Artificial Intelligence & Machine Learning
+- API Development & Integration
+- Cybersecurity
+- Real-Time Application Development
+- Generative AI & AI Agents
+- 
 
-## Achievements
 
-- Winner of several hackathons and technical competitions.
-- Recognized for outstanding mini-project development.
-
-## Connect With Me
-
-- **[GitHub](https://github.com/danishio01)**
-- **[LinkedIn](https://www.linkedin.com/in/mddanishh/)**
-- **[Email](mailto:m.daanish.aj@gmail.com)**
