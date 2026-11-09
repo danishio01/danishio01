@@ -35,6 +35,11 @@ My interests include full-stack development, artificial intelligence, and buildi
 - Cybersecurity
 - Real-Time Application Development
 - Generative AI & AI Agents
-- 
+
+<div align="center">
+
+### `// Turning ideas into reality, one line at a time.`
+
+</div>
 
 
